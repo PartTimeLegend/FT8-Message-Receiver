@@ -1,5 +1,6 @@
 import socket
 
+
 class SocketFactory:
     @staticmethod
     def create_socket(host, port):
